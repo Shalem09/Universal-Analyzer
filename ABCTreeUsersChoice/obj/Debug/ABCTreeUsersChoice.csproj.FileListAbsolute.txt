@@ -1,0 +1,11 @@
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeUsersChoice\bin\Debug\ABCTreeUsersChoice.exe.config
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeUsersChoice\bin\Debug\ABCTreeUsersChoice.exe
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeUsersChoice\bin\Debug\ABCTreeUsersChoice.pdb
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeUsersChoice\bin\Debug\ABCTreeSevenFloors.exe
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeUsersChoice\bin\Debug\ABCTreeSevenFloors.pdb
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeUsersChoice\bin\Debug\ABCTreeSevenFloors.exe.config
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeUsersChoice\obj\Debug\ABCTreeUsersChoice.csproj.AssemblyReference.cache
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeUsersChoice\obj\Debug\ABCTreeUsersChoice.csproj.CoreCompileInputs.cache
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeUsersChoice\obj\Debug\ABCTreeU.C5AF51CB.Up2Date
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeUsersChoice\obj\Debug\ABCTreeUsersChoice.exe
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeUsersChoice\obj\Debug\ABCTreeUsersChoice.pdb

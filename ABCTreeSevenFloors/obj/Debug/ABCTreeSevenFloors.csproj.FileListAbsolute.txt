@@ -1,0 +1,7 @@
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeSevenFloors\bin\Debug\ABCTreeSevenFloors.exe.config
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeSevenFloors\bin\Debug\ABCTreeSevenFloors.exe
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeSevenFloors\bin\Debug\ABCTreeSevenFloors.pdb
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeSevenFloors\obj\Debug\ABCTreeSevenFloors.csproj.AssemblyReference.cache
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeSevenFloors\obj\Debug\ABCTreeSevenFloors.csproj.CoreCompileInputs.cache
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeSevenFloors\obj\Debug\ABCTreeSevenFloors.exe
+C:\Users\robix\source\repos\Universal Analyzer\ABCTreeSevenFloors\obj\Debug\ABCTreeSevenFloors.pdb

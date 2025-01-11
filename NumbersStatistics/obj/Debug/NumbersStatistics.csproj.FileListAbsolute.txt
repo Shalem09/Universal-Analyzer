@@ -1,0 +1,7 @@
+C:\Users\robix\source\repos\Universal Analyzer\NumbersStatistics\bin\Debug\NumbersStatistics.exe.config
+C:\Users\robix\source\repos\Universal Analyzer\NumbersStatistics\bin\Debug\NumbersStatistics.exe
+C:\Users\robix\source\repos\Universal Analyzer\NumbersStatistics\bin\Debug\NumbersStatistics.pdb
+C:\Users\robix\source\repos\Universal Analyzer\NumbersStatistics\obj\Debug\NumbersStatistics.csproj.AssemblyReference.cache
+C:\Users\robix\source\repos\Universal Analyzer\NumbersStatistics\obj\Debug\NumbersStatistics.csproj.CoreCompileInputs.cache
+C:\Users\robix\source\repos\Universal Analyzer\NumbersStatistics\obj\Debug\NumbersStatistics.exe
+C:\Users\robix\source\repos\Universal Analyzer\NumbersStatistics\obj\Debug\NumbersStatistics.pdb

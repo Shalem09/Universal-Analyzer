@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D4E76ED-C568-4B1A-AFC7-180194EC65E2}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>MainMenu</RootNamespace>
+    <AssemblyName>MainMenu</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="eUserChoice.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgramManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ABCTreeSevenFloors\ABCTreeSevenFloors.csproj">
+      <Project>{af026619-8ccd-453e-b1b3-4590323a1e21}</Project>
+      <Name>ABCTreeSevenFloors</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ABCTreeUsersChoice\ABCTreeUsersChoice.csproj">
+      <Project>{67381d65-9d09-487a-8c0a-0784ae11b811}</Project>
+      <Name>ABCTreeUsersChoice</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BinaryStatisticsAnalyzer\BinaryStatisticsAnalyzer.csproj">
+      <Project>{24050b27-a833-4949-8ded-c8ef2bc571c1}</Project>
+      <Name>BinaryStatisticsAnalyzer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NumbersStatistics\NumbersStatistics.csproj">
+      <Project>{c9eeed67-405f-4eab-acd1-d1038c41ff01}</Project>
+      <Name>NumbersStatistics</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StringAnalyzer\StringAnalyzer.csproj">
+      <Project>{50b854f6-1c5b-4e8e-8d92-2c8a015cb25e}</Project>
+      <Name>StringAnalyzer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

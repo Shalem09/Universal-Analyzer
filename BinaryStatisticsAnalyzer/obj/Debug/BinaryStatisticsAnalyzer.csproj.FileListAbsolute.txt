@@ -1,0 +1,7 @@
+C:\Users\robix\source\repos\Universal Analyzer\BinaryStatisticsAnalyzer\bin\Debug\BinaryStatisticsAnalyzer.exe.config
+C:\Users\robix\source\repos\Universal Analyzer\BinaryStatisticsAnalyzer\bin\Debug\BinaryStatisticsAnalyzer.exe
+C:\Users\robix\source\repos\Universal Analyzer\BinaryStatisticsAnalyzer\bin\Debug\BinaryStatisticsAnalyzer.pdb
+C:\Users\robix\source\repos\Universal Analyzer\BinaryStatisticsAnalyzer\obj\Debug\BinaryStatisticsAnalyzer.csproj.AssemblyReference.cache
+C:\Users\robix\source\repos\Universal Analyzer\BinaryStatisticsAnalyzer\obj\Debug\BinaryStatisticsAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\robix\source\repos\Universal Analyzer\BinaryStatisticsAnalyzer\obj\Debug\BinaryStatisticsAnalyzer.exe
+C:\Users\robix\source\repos\Universal Analyzer\BinaryStatisticsAnalyzer\obj\Debug\BinaryStatisticsAnalyzer.pdb
